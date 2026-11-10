@@ -4,7 +4,7 @@
     "name": "Morning Blend Coffee",
     "category": "Coffee",
     "description": "Smooth medium roast with notes of chocolate and caramel. 250g whole beans.",
-    "price": 12.5,
+    "price": 15.5,
     "image": "/images/products/product-1.svg",
     "alt": "Placeholder image for Morning Blend Coffee"
   },
@@ -79,6 +79,16 @@
     "price": 18.5,
     "image": "/images/products/product-9.svg",
     "alt": "Placeholder image for Travel Mug"
+  },
+  {
+
+    "id": "10",
+    "name": "Coffee Scoop",
+    "category": "Accessories",
+    "description": "Stainless steel scoop with a built-in bag clip.",
+    "price": 7.99,
+    "image": "/images/products/product-10.svg",
+    "alt": "Placeholder image for Coffee Scoop"
   }
 
 ]
